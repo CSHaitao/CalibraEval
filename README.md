@@ -76,20 +76,3 @@ The label file for the corresponding dataset is organized in the following forma
 {"id": 7, "label": -1}
 ```
 
-
-
-## Citations
-
-If you find our work useful, please do not save your star and cite our work:
-
-```
-@misc{li2024calibraevalcalibratingpredictiondistribution,
-      title={CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges}, 
-      author={Haitao Li and Junjie Chen and Qingyao Ai and Zhumin Chu and Yujia Zhou and Qian Dong and Yiqun Liu},
-      year={2024},
-      eprint={2410.15393},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.15393}, 
-}
-```
