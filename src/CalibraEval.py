@@ -1,10 +1,4 @@
-'''
-Author: lihaitao
-Date: 2024-06-18 16:15:21
-LastEditors: Do not edit
-LastEditTime: 2024-10-09 23:17:59
-FilePath: /eval_LLM/Code_1005/iso_regression_batch.py
-'''
+
 import json
 from math import exp
 import random
