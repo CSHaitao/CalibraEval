@@ -1,10 +1,4 @@
-'''
-Author: lihaitao
-Date: 2024-09-17 20:08:27
-LastEditors: Do not edit
-LastEditTime: 2024-10-09 22:35:27
-FilePath: /eval_LLM/Code_1005/Pride.py
-'''
+
 import os
 import json
 import math
